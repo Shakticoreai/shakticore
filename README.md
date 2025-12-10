@@ -1,3 +1,12 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)
+![Build Status](https://github.com/Shakticoreai/shakticore/actions/workflows/ci.yml/badge.svg)
+![GitHub Stars](https://img.shields.io/github/stars/Shakticoreai/shakticore)
+![GitHub Issues](https://img.shields.io/github/issues/Shakticoreai/shakticore)
+
+🚀 **Shaktiai: 168x Faster AI Inference Engine**
+
+
 # 🚀 Shaktiai: 168x Faster AI Inference Engine
 
 **Production-ready AI inference built in Rust with GPU acceleration. 168x faster than TensorFlow.**
