@@ -1,0 +1,6 @@
+# Clone repository
+git clone https://github.com/Shakticoreai/shakticore.git
+cd shakticore
+
+# Run benchmark (coming soon)
+cargo run --release -- benchmark
